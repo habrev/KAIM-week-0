@@ -1,1 +1,1 @@
-# KAIM-week-0
+# First task for KAIM-week-0 training 
