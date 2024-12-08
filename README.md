@@ -1,18 +1,7 @@
 # MoonLight Energy Solutions - Environmental Measurement Analysis
 
 ## Project Overview
-As an Analytics Engineer at MoonLight Energy Solutions, the goal of this project is to analyze environmental measurements provided by the engineering team. The primary objective is to identify key trends and derive valuable insights to support data-driven decision-making. 
-
-
-Memory updated
-Here’s how you could include the task description as part of a README.md file for the project:
-
-markdown
-Copy code
-# MoonLight Energy Solutions - Environmental Measurement Analysis
-
-## Project Overview
-As an Analytics Engineer at MoonLight Energy Solutions, the goal of this project is to analyze environmental measurements provided by the engineering team. The primary objective is to identify key trends and derive valuable insights to support data-driven decision-making. 
+The goal of this project is to analyze environmental measurements provided by the engineering team. The primary objective is to identify key trends and derive valuable insights to support data-driven decision-making. 
 
 ### Key Focus Areas:
 - **Statistical Analysis**: Conduct exploratory data analysis (EDA) to uncover significant patterns in environmental data.
