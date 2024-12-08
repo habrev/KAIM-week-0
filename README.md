@@ -1,1 +1,1 @@
-# First task for KAIM-week-0 training 
+# MoonLight Energy Solutions aims to develop a strategic approach to significantly enhance its operational efficiency and sustainability through targeted solar investments. We develop a strategy focusing on identifying high-potential regions for solar installation that align with the company's long-term sustainability goals.
